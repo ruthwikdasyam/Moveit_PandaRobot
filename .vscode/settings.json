@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "cmake.sourceDirectory": "/home/ruthwikdasyam/Desktop/ENPM661_Planning/ws_new/src/ruthwik_120405563/package_120405563"
+}
